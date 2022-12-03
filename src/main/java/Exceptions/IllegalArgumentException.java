@@ -1,6 +1,6 @@
 package Exceptions;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 public class IllegalArgumentException extends Exception{
 
