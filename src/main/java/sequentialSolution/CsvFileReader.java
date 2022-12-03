@@ -1,6 +1,6 @@
 package sequentialSolution;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 import java.io.*;
 import java.util.HashMap;
