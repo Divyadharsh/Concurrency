@@ -1,6 +1,6 @@
 package concurrentSolution;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
