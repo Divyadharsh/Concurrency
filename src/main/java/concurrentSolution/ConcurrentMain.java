@@ -1,6 +1,6 @@
 package concurrentSolution;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 import java.io.File;
 import java.io.IOException;
