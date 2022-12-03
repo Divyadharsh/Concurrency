@@ -1,6 +1,6 @@
 package sequentialSolution;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 import Exceptions.IllegalArgumentException;
 
