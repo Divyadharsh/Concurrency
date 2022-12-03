@@ -1,6 +1,6 @@
 package concurrentSolution;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author divyadharshinimuruganandham
  */
 import java.util.Arrays;
 import java.util.Objects;
